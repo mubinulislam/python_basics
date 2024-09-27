@@ -1,2 +1,2 @@
 # python_basics
-basic operations
+basic operations for python language
